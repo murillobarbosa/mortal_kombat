@@ -2,7 +2,7 @@
 
 ![](./img/desktop.png)
 
-[Clique aqui](https://murillobarbosa.github.io/headphone-purple/) para acessar o site
+[Clique aqui](https://murillobarbosa.github.io/mortal_kombat/) para acessar o site
 
 ---
 
